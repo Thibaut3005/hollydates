@@ -1,0 +1,26 @@
+{
+  "name": "@thibaut3005/holidates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "holidates" : "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thibaut3005/hollydates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thibaut3005/hollydates/issues"
+  },
+  "homepage": "https://github.com/Thibaut3005/hollydates#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "country-list": "^2.2.0"
+  }
+}
